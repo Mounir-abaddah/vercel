@@ -62,7 +62,7 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:5000/",
+  "proxy": "https://vercel-server-ioy0cvhij-mounirabaddah6-gmailcoms-projects.vercel.app/",
   "devDependencies": {
     "daisyui": "^4.11.1",
     "tailwindcss": "^3.4.3"
